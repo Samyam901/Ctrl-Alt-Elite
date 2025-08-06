@@ -55,6 +55,18 @@ public class Names {
                 " \\____| |_| |_| \\_\\_____||_|/_/   \\_\\_____|_| |_| |_____|_____|___| |_| |_____|");
     }
 
+    public static void PrintRubysName() { 
+        System.out.println("");
+        System.out.println("______      _             _____             _   ");
+        System.out.println("| ___ \    | |           /  __ \           | |  ");
+        System.out.println("| |_/ /   _| |__  _   _  | /  \/ __ _ _ __ | |_ ");
+        System.out.println("|    / | | | '_ \| | | | | |    / _` | '_ \| __|");
+        System.out.println("| |\ \ |_| | |_) | |_| | | \__/\ (_| | | | | |_ ");
+        System.out.println("\_| \_\__,_|_.__/ \__, |  \____/\__,_|_| |_|\__|");
+        System.out.println("                   __/ |                        ");
+        System.out.println("                  |___/");
+    }
+
     public static void PrintRaphsName() {
 
         System.out.println("");
