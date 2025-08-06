@@ -54,5 +54,13 @@ public class Names {
         System.out.println("             | |                                  ");
         System.out.println("             |_|                                  ");
 
+                                            
+System.out.println("                                    ");
+System.out.println("  _ __   ___  _ __ ___   __ _ _ __  ");
+System.out.println(" | '_ \\ / _ \\| '_ ` _ \\ / _` | '_ \\ ");
+System.out.println(" | | | | (_) | | | | | | (_| | | | |");
+System.out.println(" |_| |_|\\___/|_| |_| |_|\\__,_|_| |_|");
+System.out.println("                                    ");
+                                  
     }
 }
