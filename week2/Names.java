@@ -41,6 +41,8 @@ public class Names {
 
         // Put your signature function on the below line!
         PrintHarrisSig();
+        PrintRubysName();
+        PrintRaphsName();
         // Put your signature function on the above line!
 
     }
