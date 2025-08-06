@@ -5,26 +5,31 @@ public class Names {
         PrintRaphsName();
         // System.out.println("Ken Armstrong,");
         System.out.println("\r\n" + //
-                        "                 __               __               __   __   __  \r\n" + //
-                        "|\\ /| |  | |  | |  | |\\ /| |\\ /| |  |  __|   |<<  |  |    | |  | \r\n" + //
-                        "| < | |  | |><| |><| | < | | < | |><| |<<|   |>>| |><| << | |><| \r\n" + //
-                        "|   | '<<' |  | |  | |   | |   | |  | |__|   |  \\ |  | |__' |  | \r\n" + //
-                        "");
-         System.out.println(" ____                                          ____  _                   _   _           \r\n" + //
-                          "/ ___|  __ _ _ __ ___  _   _  __ _ _ __ ___   / ___|| |__  _ __ ___  ___| |_| |__   __ _ \r\n" + //
-                          "\\___ \\ / _` | '_ ` _ \\| | | |/ _` | '_ ` _ \\  \\___ \\| '_ \\| '__/ _ \\/ __| __| '_ \\ / _` |\r\n" + //
-                          " ___) | (_| | | | | | | |_| | (_| | | | | | |  ___) | | | | | |  __/\\__ \\ |_| | | | (_| |\r\n" + //
-                          "|____/ \\__,_|_| |_| |_|\\__, |\\__,_|_| |_| |_| |____/|_| |_|_|  \\___||___/\\__|_| |_|\\__,_|\r\n" + //
-                          "                       |___/                                                             ");
-//        System.out.println("Minh Vy Ha");
+                "                 __               __               __   __   __  \r\n" + //
+                "|\\ /| |  | |  | |  | |\\ /| |\\ /| |  |  __|   |<<  |  |    | |  | \r\n" + //
+                "| < | |  | |><| |><| | < | | < | |><| |<<|   |>>| |><| << | |><| \r\n" + //
+                "|   | '<<' |  | |  | |   | |   | |  | |__|   |  \\ |  | |__' |  | \r\n" + //
+                "");
+        System.out.println(
+                " ____                                          ____  _                   _   _           \r\n" + //
+                        "/ ___|  __ _ _ __ ___  _   _  __ _ _ __ ___   / ___|| |__  _ __ ___  ___| |_| |__   __ _ \r\n"
+                        + //
+                        "\\___ \\ / _` | '_ ` _ \\| | | |/ _` | '_ ` _ \\  \\___ \\| '_ \\| '__/ _ \\/ __| __| '_ \\ / _` |\r\n"
+                        + //
+                        " ___) | (_| | | | | | | |_| | (_| | | | | | |  ___) | | | | | |  __/\\__ \\ |_| | | | (_| |\r\n"
+                        + //
+                        "|____/ \\__,_|_| |_| |_|\\__, |\\__,_|_| |_| |_| |____/|_| |_|_|  \\___||___/\\__|_| |_|\\__,_|\r\n"
+                        + //
+                        "                       |___/                                                             ");
+        // System.out.println("Minh Vy Ha");
         System.out.println("\n" + //
-                        " ____  __.             \n" + //
-                        "|    |/ _|____   ____  \n" + //
-                        "|      <_/ __ \\ /    \\ \n" + //
-                        "|    |  \\  ___/|   |  \\\n" + //
-                        "|____|__ \\___  >___|  /\n" + //
-                        "        \\/   \\/     \\/ \n" + //
-                        "");
+                " ____  __.             \n" + //
+                "|    |/ _|____   ____  \n" + //
+                "|      <_/ __ \\ /    \\ \n" + //
+                "|    |  \\  ___/|   |  \\\n" + //
+                "|____|__ \\___  >___|  /\n" + //
+                "        \\/   \\/     \\/ \n" + //
+                "");
         // System.out.println("Muhammad Raja,");
         System.out.println(
                 " ____                                          ____  _                   _   _           \r\n" + //
@@ -42,7 +47,7 @@ public class Names {
         // Put your signature function on the below line!
         PrintHarrisSig();
         // Put your signature function on the above line!
-        
+
     }
 
     public static void PrintHarrisSig() {
@@ -58,11 +63,11 @@ public class Names {
     public static void PrintRubysName() { 
         System.out.println("");
         System.out.println("______      _             _____             _   ");
-        System.out.println("| ___ \    | |           /  __ \           | |  ");
-        System.out.println("| |_/ /   _| |__  _   _  | /  \/ __ _ _ __ | |_ ");
-        System.out.println("|    / | | | '_ \| | | | | |    / _` | '_ \| __|");
-        System.out.println("| |\ \ |_| | |_) | |_| | | \__/\ (_| | | | | |_ ");
-        System.out.println("\_| \_\__,_|_.__/ \__, |  \____/\__,_|_| |_|\__|");
+        System.out.println("| ___ \\    | |           /  __ \\           | |  ");
+        System.out.println("| |_/ /   _| |__  _   _  | /  \\/ __ _ _ __ | |_ ");
+        System.out.println("|    / | | | '_ \\| | | | | |    / _` | '_ \\| __|");
+        System.out.println("| |\\ \\ |_| | |_) | |_| | | \\__/\\ (_| | | | | |_ ");
+        System.out.println("\\_| \\_\\__,_|_.__/ \\__, |  \\____/\\__,_|_| |_|\\__|");
         System.out.println("                   __/ |                        ");
         System.out.println("                  |___/");
     }
@@ -79,13 +84,12 @@ public class Names {
         System.out.println("             | |                                  ");
         System.out.println("             |_|                                  ");
 
-                                            
-System.out.println("                                    ");
-System.out.println("  _ __   ___  _ __ ___   __ _ _ __  ");
-System.out.println(" | '_ \\ / _ \\| '_ ` _ \\ / _` | '_ \\ ");
-System.out.println(" | | | | (_) | | | | | | (_| | | | |");
-System.out.println(" |_| |_|\\___/|_| |_| |_|\\__,_|_| |_|");
-System.out.println("                                    ");
-                                  
+        System.out.println("                                    ");
+        System.out.println("  _ __   ___  _ __ ___   __ _ _ __  ");
+        System.out.println(" | '_ \\ / _ \\| '_ ` _ \\ / _` | '_ \\ ");
+        System.out.println(" | | | | (_) | | | | | | (_| | | | |");
+        System.out.println(" |_| |_|\\___/|_| |_| |_|\\__,_|_| |_|");
+        System.out.println("                                    ");
+
     }
 }
