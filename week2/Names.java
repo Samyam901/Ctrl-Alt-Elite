@@ -3,7 +3,12 @@ public class Names {
 		System.out.println("This group consists of:");
         // System.out.println("Raphael Munoz,");
         // System.out.println("Ken Armstrong,");
-        // System.out.println("Muhammad Raja,");
+        System.out.println("\r\n" + //
+                        "                 __               __               __   __   __  \r\n" + //
+                        "|\\ /| |  | |  | |  | |\\ /| |\\ /| |  |  __|   |<<  |  |    | |  | \r\n" + //
+                        "| < | |  | |><| |><| | < | | < | |><| |<<|   |>>| |><| << | |><| \r\n" + //
+                        "|   | '<<' |  | |  | |   | |   | |  | |__|   |  \\ |  | |__' |  | \r\n" + //
+                        "");
          System.out.println(" ____                                          ____  _                   _   _           \r\n" + //
                           "/ ___|  __ _ _ __ ___  _   _  __ _ _ __ ___   / ___|| |__  _ __ ___  ___| |_| |__   __ _ \r\n" + //
                           "\\___ \\ / _` | '_ ` _ \\| | | |/ _` | '_ ` _ \\  \\___ \\| '_ \\| '__/ _ \\/ __| __| '_ \\ / _` |\r\n" + //
