@@ -3,6 +3,14 @@ public class Names {
 		System.out.println("This group consists of:");
         // System.out.println("Raphael Munoz,");
         // System.out.println("Ken Armstrong,");
+        System.out.println("\n" + //
+                        " ____  __.             \n" + //
+                        "|    |/ _|____   ____  \n" + //
+                        "|      <_/ __ \\ /    \\ \n" + //
+                        "|    |  \\  ___/|   |  \\\n" + //
+                        "|____|__ \\___  >___|  /\n" + //
+                        "        \\/   \\/     \\/ \n" + //
+                        "");
         // System.out.println("Muhammad Raja,");
          System.out.println(" ____                                          ____  _                   _   _           \r\n" + //
                           "/ ___|  __ _ _ __ ___  _   _  __ _ _ __ ___   / ___|| |__  _ __ ___  ___| |_| |__   __ _ \r\n" + //
