@@ -2,6 +2,7 @@ public class Names {
     public static void main(String[] Args) {
         System.out.println("This group consists of:");
         // System.out.println("Raphael Munoz,");
+        PrintRaphsName();
         // System.out.println("Ken Armstrong,");
         System.out.println("\n" + //
                         " ____  __.             \n" + //
@@ -28,7 +29,7 @@ public class Names {
         // Put your signature function on the below line!
         PrintHarrisSig();
         // Put your signature function on the above line!
-        PrintRaphsName();
+        
     }
 
     public static void PrintHarrisSig() {
