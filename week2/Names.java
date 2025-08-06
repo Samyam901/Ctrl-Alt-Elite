@@ -3,6 +3,7 @@ public class Names {
         System.out.println("This group consists of:");
         // System.out.println("Raphael Munoz,");
         PrintRaphsName();
+        PrintKen();
         // System.out.println("Ken Armstrong,");
         System.out.println("\r\n" + //
                 "                 __               __               __   __   __  \r\n" + //
@@ -22,14 +23,8 @@ public class Names {
                         + //
                         "                       |___/                                                             ");
         // System.out.println("Minh Vy Ha");
-        System.out.println("\n" + //
-                " ____  __.             \n" + //
-                "|    |/ _|____   ____  \n" + //
-                "|      <_/ __ \\ /    \\ \n" + //
-                "|    |  \\  ___/|   |  \\\n" + //
-                "|____|__ \\___  >___|  /\n" + //
-                "        \\/   \\/     \\/ \n" + //
-                "");
+       
+                
         // System.out.println("Muhammad Raja,");
         System.out.println(
                 " ____                                          ____  _                   _   _           \r\n" + //
@@ -92,4 +87,14 @@ public class Names {
         System.out.println("                                    ");
 
     }
+     public static void PrintKen() {
+        System.out.println("\n" + //
+                " ____  __.             \n" + //
+                "|    |/ _|____   ____  \n" + //
+                "|      <_/ __ \\ /    \\ \n" + //
+                "|    |  \\  ___/|   |  \\\n" + //
+                "|____|__ \\___  >___|  /\n" + //
+                "        \\/   \\/     \\/ \n" + //
+                ""); 
+            }
 }
